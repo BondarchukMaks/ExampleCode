@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: android.arch.navigation:navigation-testing-ktx:1.0.0-alpha06@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/c08ab72c1e01553409ab7bdee2a5c590/jetified-navigation-testing-ktx-1.0.0-alpha06/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/c08ab72c1e01553409ab7bdee2a5c590/jetified-navigation-testing-ktx-1.0.0-alpha06/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/c08ab72c1e01553409ab7bdee2a5c590/jetified-navigation-testing-ktx-1.0.0-alpha06/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/android.arch.navigation/navigation-testing-ktx/1.0.0-alpha06/714a62933638c5d8646e6312eae92c261dcb8dfd/navigation-testing-ktx-1.0.0-alpha06-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

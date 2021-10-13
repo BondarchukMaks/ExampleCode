@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.marozzi.roundbutton:round-button:1.0.7@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/5fbccde4a500b67351db5be04c933f94/jetified-round-button-1.0.7/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/5fbccde4a500b67351db5be04c933f94/jetified-round-button-1.0.7/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/5fbccde4a500b67351db5be04c933f94/jetified-round-button-1.0.7/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/com.marozzi.roundbutton/round-button/1.0.7/40f75dff02f4cd8de67bfb3958903c9fa5279179/round-button-1.0.7-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/com.marozzi.roundbutton/round-button/1.0.7/41137ee0456229032595c121e342011c38a17bf9/round-button-1.0.7-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

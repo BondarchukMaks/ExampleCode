@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingBottom="@dimen/padding_32"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/titleView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/bg_free_widget"
+        android:fontFamily="@font/montserrat_bold"
+        android:gravity="bottom|center_horizontal"
+        android:paddingBottom="@dimen/padding_28"
+        android:text="@string/free_widget_title"
+        android:textColor="@color/colorAccent"
+        android:textSize="@dimen/text_size_28" />
+
+    <TextView
+        android:id="@+id/descriptionView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:paddingBottom="@dimen/padding_32"
+        android:text="@string/free_widget_description"
+        android:fontFamily="@font/montserrat_medium"
+        android:textSize="@dimen/text_size_14"
+        android:textColor="@color/black"/>
+
+    <Button
+        android:id="@+id/confirmButton"
+        style="@style/PinkButton"
+        android:text="@string/ok"
+        android:textAllCaps="true" />
+
+</LinearLayout>

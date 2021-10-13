@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">Cool Battery Widget</string>
+
+    <!-- Error-->
+    <string name="error">Oops, something went wrong!\nPlease try again</string>
+
+    <!--    Header Layout-->
+    <string name="back">Back</string>
+
+    <!-- Status Layout-->
+    <string name="unlock_with_options">Get this cool widget NOW! \n Choose one of the following options:</string>
+    <string name="unlock_widget">Unlock this widget</string>
+    <string name="unlock_free">Unlock</string>
+    <string name="buy_for_dollar">Buy for \u00240.99 </string>
+    <string name="or">or</string>
+    <string name="share_with_friends">Share with a friends</string>
+    <string name="unlocked">Your widget</string>
+    <string name="unlock">Unlock</string>
+
+    <!--Menu fragment-->
+    <string name="share_and_get">Share and get free widget</string>
+    <string name="how_to_add">How to add widget</string>
+    <string name="rate_us">Rate Us</string>
+    <string name="terms_and_cond">Terms &amp; Conditions</string>
+    <string name="privacy_policy">Privacy Policy</string>
+
+    <!--    Tutorial fragment-->
+    <string name="how_to_add_title">How to add battery widget to your home screen</string>
+    <string name="how_to_add_title2">How to add Cool Battery\n Widget to your home screen:</string>
+    <string name="how_to_add_description"> 1. On a Home screen, touch and hold an  empty space. \n\n2. Tap Widgets . \n\n3. Find the Cool Battery Widget . \n\n4. Long-press the widget and drag it to a Home screen page.</string>
+
+    <!-- Zodiac signs -->
+    <string name="aries">Aries</string>
+    <string name="taurus">Taurus</string>
+    <string name="gemini">Gemini</string>
+    <string name="cancer">Cancer</string>
+    <string name="leo">Leo</string>
+    <string name="virgo">Virgo</string>
+    <string name="libra">Libra</string>
+    <string name="scorpio">Scorpio</string>
+    <string name="sagittarius">Sagittarius</string>
+    <string name="capricorn">Capricorn</string>
+    <string name="aquarius">Aquarius</string>
+    <string name="pisces">Pisces</string>
+
+    <string name="small_widget">Small</string>
+    <string name="large_widget">Large</string>
+
+    <!--    Pop-ups-->
+    <string name="rate_us_description">If you enjoy using our app,\n please rate us at the \n Google Play </string>
+    <string name="no_thanks">Maybe later</string>
+    <string name="free_widget_title">You get a free\n widget!</string>
+    <string name="free_widget_description">A friend of yours installed a Cool\nBattery Widget using your\n personal link. \n\n Want more widgets? Share with\n more friends... </string>
+    <string name="ok">OK</string>
+    <string name="share_title">Get Free Widgets</string>
+    <string name="share_description">Share Cool Battery Widget with your friends and get this widget for free.</string>
+    <string name="share_app">Share App</string>
+    <string name="link_included">(Using this unique auto-generated link)</string>
+    <string name="important_label">Important</string>
+    <string name="important_description">You will get your free widget as soon as your friend installs the Cool Battery Widget app using your unique link. Want more widgets? Share with more friends… you’ll get one free widget for each friend who installs the app.</string>
+
+    <!--    Widget view  -->
+    <string name="preview_title">PREVIEW</string>
+    <string name="preview_desc">Click to unlock this widget</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="notification_channel_id">test_channel_id</string>
+
+
+</resources>

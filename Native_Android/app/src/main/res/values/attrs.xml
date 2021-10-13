@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="HeaderLayout">
+        <attr name="buttonText" format="string" />
+        <attr name="buttonTextColor" format="color" />
+        <attr name="buttonTextVisible" format="boolean"/>
+        <attr name="buttonIcon" format="reference" />
+        <attr name="buttonIconVisible" format="boolean"/>
+        <attr name="buttonPaddingStart" format="dimension"/>
+        <attr name="backgroundColor" format="color"/>
+    </declare-styleable>
+
+    <declare-styleable name="StatusLayout">
+
+    </declare-styleable>
+
+</resources>

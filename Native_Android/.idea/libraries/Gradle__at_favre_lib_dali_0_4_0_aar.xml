@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: at.favre.lib:dali:0.4.0@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/4b99af56b30cbe5e55839f71556fdb04/jetified-dali-0.4.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/4b99af56b30cbe5e55839f71556fdb04/jetified-dali-0.4.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/4b99af56b30cbe5e55839f71556fdb04/jetified-dali-0.4.0/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/at.favre.lib/dali/0.4.0/382d645d52ce7c978c82c01d682174f0f2eaf77f/dali-0.4.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/at.favre.lib/dali/0.4.0/c6a7b2a4630d9875ce148a12f4a125ec737d7c6a/dali-0.4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

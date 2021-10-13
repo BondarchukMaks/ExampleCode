@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "878810334967",
+    "firebase_url": "https://dodo-battery.firebaseio.com",
+    "project_id": "dodo-battery",
+    "storage_bucket": "dodo-battery.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878810334967:android:30c3fca68f03ad6a3fb5f2",
+        "android_client_info": {
+          "package_name": "com.digicode.dodobattery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "878810334967-kr37cgl5b6ouvmea8quni9k4m264cn63.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.digicode.dodobattery",
+            "certificate_hash": "cd210163ac18281e50c4ba3c5284068ff590b15c"
+          }
+        },
+        {
+          "client_id": "878810334967-e62vo2f7vu29uv64r3ivlnnujime2h5t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsc4O-e_KyTqv5oHFO_anBI-9JKT2t8JQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "878810334967-e62vo2f7vu29uv64r3ivlnnujime2h5t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@color/colorPrimaryDark"
+    android:orientation="vertical">
+
+    <ImageView
+        android:id="@+id/arrowImageView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:src="@drawable/ic_arrow_up_white"/>
+
+    <TextView
+        android:id="@+id/unlockTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/montserrat_regular"
+        android:alpha="0"
+        android:gravity="center"
+        android:paddingTop="@dimen/padding_8"
+        android:text="@string/unlock_with_options"
+        android:textColor="@color/white"
+        android:textSize="@dimen/text_size_16" />
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_marginTop="15dp"
+        android:layout_height="wrap_content">
+
+        <com.marozzi.roundbutton.RoundButton
+            android:id="@+id/buyButton"
+            style="@style/PinkButton"
+            android:text="@string/buy_for_dollar"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.120000005"
+            android:alpha="0"
+            app:rb_animation_alpha="false"
+            app:rb_animation_corner_radius="10dp"
+            app:rb_animation_duration="500"
+            app:rb_animation_progress_color="@color/white"
+            app:rb_animation_progress_padding="8dp"
+            app:rb_animation_progress_style="circle"
+            app:rb_animation_progress_width="2dp"
+            app:rb_background_color="@color/colorAccent"
+            app:rb_corner_color="@color/colorAccent"
+            app:rb_corner_color_pressed="@color/colorAccent"
+            app:rb_corner_radius="24dp"
+            app:rb_corner_width="1dp"
+            app:rb_text_color="@color/white"
+            app:rb_text_color_pressed="@android:color/white" />
+
+        <TextView
+            android:id="@+id/countWidgetsTextView"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:background="@drawable/bg_orange_btn"
+            android:fontFamily="@font/montserrat_bold"
+            android:gravity="center"
+            android:alpha="0"
+            android:text="1"
+            android:translationZ="10dp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="@+id/buyButton"
+            app:layout_constraintHorizontal_bias="1.0"
+            app:layout_constraintStart_toStartOf="@+id/buyButton"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.0"
+            app:layout_constraintVertical_weight="1" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+    <TextView
+        android:id="@+id/orView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:alpha="0"
+        android:layout_marginTop="@dimen/margin_8"
+        android:text="@string/or"
+        android:textSize="@dimen/text_size_16"
+        android:fontFamily="@font/montserrat_regular"
+        android:textColor="@color/white"/>
+
+    <Button
+        android:id="@+id/shareButton"
+        style="@style/OrangeButton"
+        android:alpha="0"
+        android:layout_marginTop="@dimen/margin_8"
+        android:text="@string/share_with_friends"/>
+
+</LinearLayout>

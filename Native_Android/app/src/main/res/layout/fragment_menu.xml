@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:background="@color/colorPrimary"
+    tools:context=".view.ui.menu.MenuFragment">
+
+    <com.digicode.dodobattery.view.customView.HeaderLayout
+        android:id="@+id/headerLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorPrimary"
+        app:buttonIcon="@drawable/ic_arrow_back"
+        app:buttonText="@string/back"
+        app:buttonTextColor="@color/white"/>
+
+    <TextView
+        android:id="@+id/shareAndGetView"
+        style="@style/MenuTextTheme"
+        android:text="@string/share_and_get"/>
+
+    <View
+        style="@style/SeparatorViewTheme"/>
+
+    <TextView
+        android:id="@+id/howToAddView"
+        style="@style/MenuTextTheme"
+        android:text="@string/how_to_add"/>
+
+    <View
+        style="@style/SeparatorViewTheme"/>
+
+    <TextView
+        android:id="@+id/rateUsView"
+        style="@style/MenuTextTheme"
+        android:text="@string/rate_us"/>
+
+    <View
+        style="@style/SeparatorViewTheme"/>
+
+    <TextView
+        android:id="@+id/termsAndCondView"
+        style="@style/MenuTextTheme"
+        android:text="@string/terms_and_cond"/>
+
+    <View
+        style="@style/SeparatorViewTheme"/>
+
+    <TextView
+        android:id="@+id/privacyPolicyView"
+        style="@style/MenuTextTheme"
+        android:text="@string/privacy_policy"/>
+
+    <View
+        style="@style/SeparatorViewTheme"/>
+
+</LinearLayout>
